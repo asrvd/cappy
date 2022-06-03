@@ -9,7 +9,7 @@ A simple, fast and powerful CLI tool to add captions to Images. Supports GIFs to
 
 ## Prerequisites
 - Imgur client ID and secret. You can generate one for free [here](https://api.imgur.com/oauth2/addclient).
-- You will be ased for th ID and Secret on first time usage of cappy.
+- You will be asked for the ID and Secret on first time usage of cappy.
 
 ## Usage
 Install the package from pypi.

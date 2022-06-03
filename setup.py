@@ -17,7 +17,7 @@ dependency_links = [x.strip().replace('git+', '') for x in all_reqs \
 setup (
     name = 'cappy-cli',
     description = 'A cli tool to add captions to images.',
-    version = '1.1.5',
+    version = '1.1.6',
     include_package_data=True,
     packages = find_packages(), # list of all packages
     install_requires = install_requires,
