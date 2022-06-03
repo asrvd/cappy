@@ -1,0 +1,6 @@
+click==8.1.2
+halo==0.0.31
+imgurpython==1.1.7
+Pillow==9.1.1
+python-dotenv==0.20.0
+requests==2.27.1
