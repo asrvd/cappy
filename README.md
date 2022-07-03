@@ -1,7 +1,7 @@
 ## Cappy
 A simple, fast and powerful CLI tool to add captions to Images. Supports GIFs too!
 
-## Feautures
+## Features
 - Adds caption to static images like `.jpeg`/`.jpg`/`.png`.
 - Adds caption to animated GIFs.
 - Uploads generated images to Imgur to prevent storage usage.
